@@ -20,6 +20,7 @@ This will download the latest NAV data and extract it into a file called `nav_da
 ```bash
 chmod +x extract_nav.sh
 ./extract_nav.sh
+```
 
 ##  Output will in this format:
 nav_data.tsv
